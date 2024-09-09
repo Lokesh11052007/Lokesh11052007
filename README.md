@@ -5,7 +5,7 @@
 - 📫 Catch me on my website
 - 😄 Pronouns: him
 - ⚡ Fun fact: Nothing can be gained without losing ;
-Even Heaven demands Death
+Even Heaven demands Death.
 
 <!---
 Lokesh11052007/Lokesh11052007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
